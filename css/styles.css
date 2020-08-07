@@ -1,19 +1,40 @@
 
 .content1 {
-  background-color: powderblue;
+  background-color: rgba(255, 99, 71, 0.2);
+  box-sizing: border-box;
 }
 
 .content2 {
-  background-color: rgba(185, 70, 70, 0.568);
+  background-color: rgba(98, 132, 187, 0.123);
 }
 .content3 {
-  background-color: green;
+  background-color: rgb(214, 214, 197);
 }
 
 
 .add1, .add2, .add3 {
   margin-top: 10%;
-  color: red;
+  padding-right: 50px;
+  color: black;
   text-align: center;
 }
+
+.add2 p {
+  margin-left: 20px;
+}
+
+h1 .header {
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'LucidaGrande','Lucida Sans Unicode', Geneva, Verdana,     sans-serif;
+  text-align: center;
+  text-justify: inter-word;
+   } 
 
