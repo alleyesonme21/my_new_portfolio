@@ -1,0 +1,19 @@
+
+.content1 {
+  background-color: powderblue;
+}
+
+.content2 {
+  background-color: rgba(185, 70, 70, 0.568);
+}
+.content3 {
+  background-color: green;
+}
+
+
+.add1, .add2, .add3 {
+  margin-top: 10%;
+  color: red;
+  text-align: center;
+}
+
