@@ -43,16 +43,7 @@ p {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'LucidaGrande','Lucida Sans Unicode', Geneva, Verdana,     sans-serif;
   text-align: justify;
   text-justify:inter-word;
-   } 
-
-     #list {
-     /* margin-top: 0 auto; */
-   } 
-
-   #share {
-     /* margin-top: 20px; */
-
-   }  
+   }   
 
    footer p {
     position: relative;
