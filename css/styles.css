@@ -1,29 +1,23 @@
-
 .content1 {
   background-color: rgba(255, 99, 71, 0.2);
   box-sizing: border-box;
 }
-
-.content2 {
-  
- background-color: rgba(98, 132, 187, 0.123);
+.content2 { 
+  background-color: rgba(98, 132, 187, 0.123);
 }
 .content3 {
   background-color: rgb(214, 214, 197);
 }
-
-
 .add1,.add2,.add3 {
   margin-top: 10%;
   padding-right: 50px;
-  color: black;
+  color: rgb(78, 55, 55);
   text-align: center;
+  font-style: normal;
 }
-
 .add2 p {
   margin-left: 20px
 }
-
 h1.header {
   text-align: center;
   font-size: 70px;
@@ -34,40 +28,50 @@ h1.header {
   margin: auto;
   border-radius: 25px;
 }
-
 h1 {
   text-align: center;
+  color: seagreen;
 }
-
 p {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'LucidaGrande','Lucida Sans Unicode', Geneva, Verdana,     sans-serif;
   text-align: justify;
   text-justify:inter-word;
-   }   
-
-   footer p {
-    position: relative;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background-color: rgb(194, 116, 116);
-    color: white;
-    text-align: center;
-    margin-top: 50px;
-    }
-
-    .push {
-      background-color: whitesmoke;
-     margin: 1px;
-     padding-top: 50px;
-     padding-left: 11%;
-     
-    }
-
-    #share img {
-      width: 50px;
-      height: 50px;
-       float: right; 
-      padding: 10px;
-      }
+}   
+footer p {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(194, 116, 116);
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+.push {
+  background-color: whitesmoke;
+  margin: 1px;
+  padding-top: 50px;
+  padding-left: 11%; 
+}
+img {
+  width: 360px;
+  height: 640px;
+}
+#share img {
+  width: 50px;
+  height: 50px;
+    float: right; 
+  padding: 10px;
+  margin-right: 20px;
+}
+#description h3 {
+  text-align: center;
+}
+span {
+  color: rgb(233, 161, 67);
+  font-size: medium;
+}
+h3 {
+  color: blueviolet;
+}
 
