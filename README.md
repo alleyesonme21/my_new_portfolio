@@ -7,7 +7,7 @@ My personal portofolio outlines my prior work experience in Haiti, international
 ## Setup/installation requirement
 - Open terminal
 - git clone 
--  https://github.com/alleyesonme21/my_new_portfoliot
+-  https://github.com/alleyesonme21/my_new_portfolio
 - cd my-new-portfolio
 - open visual studio code 
 - Code .
